@@ -10,9 +10,9 @@ Features to be added:
 Ideas for the game:
 
   Spice progression:
-    bell pepper
-    salt
-    pepper
-    halepeno
-    etc
+    bell pepper,
+    salt,
+    pepper,
+    halepeno,
+    etc.
   
