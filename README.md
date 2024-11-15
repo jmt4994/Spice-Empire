@@ -8,7 +8,7 @@ Features to be added:
   Better Graphics
 
 Ideas for the game:
-  Spice progression
+  Spice progression:
     bell pepper
     salt
     pepper
